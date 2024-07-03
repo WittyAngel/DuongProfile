@@ -8,15 +8,16 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">DUC THANG DUONG</span>
-            from <span className="purple"> Vietnam.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            Hi, I am <span className="purple">Julian Kevin </span>
+            from <span className="purple"> Canada.</span>
             <br />
+            <br />I have 7+ years of experience as a software developer, working on a live large scale data-driven and SaaS product.
             <br />
-            Apart from coding, some other activities that I love to do!
+            <br />Developed more than 6 web applications from small to large scale using server-side languages like React.js, Vue.js, Python and NodeJS.
+            <br />
+            <br />Managed full development life cycle from technical requirements, solution design, development, testing, documentation through production rollout
           </p>
-          <ul>
+          {/* <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
@@ -26,12 +27,12 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
-          </ul>
+          </ul> */}
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">DUC THANG DUONG</footer>
+          <footer className="blockquote-footer">Julian Kevin</footer>
         </blockquote>
       </Card.Body>
     </Card>

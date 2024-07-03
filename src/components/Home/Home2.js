@@ -16,12 +16,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I have an experience Full Stack Web Developer with a demonstrated history of working in the information technology and services industry.
               <br />
-              <br />I am fluent in classics like
+              <br />I am expert in 
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Javascript, Typescript, React.js, Next.js, Vue.js, Node.js, Golang, PHP/Laravel, </b>etc.
               </i>
               <br />
               <br />
@@ -30,7 +29,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  AI and Blockchain.
                 </b>
               </i>
               <br />
@@ -64,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="mailto: NilsbyHaven85@hotmail.com"
+                  href="mailto: juliandev2710@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
